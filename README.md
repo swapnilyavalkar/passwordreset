@@ -19,7 +19,7 @@
    <ol>2. Modify file "ResetUserPasswordId.jsp" to mention your administrator's or support team's email IDs, you can simple replace the email ID xxxxx@xxxxxxx.com in this file with your email id. Also mention your mail server details in this file, you can mention this at SmtpClient client = new SmtpClient("xxxxxxx.com"). Please change the email body in this file as per your requirement.</ol>
    <ol>3. You can modify the file "tutorials.html" to modify the instructions given on the home page of this application as needed.</ol>
    <ol>4. Modify the file "AuthCode.jsp" to mention your admin's email id for String from="xxxx@xxxxx.com" and mail server details for SmtpClient client = new SmtpClient("xxxxx.com"), also change the body of the email id mentioned in this file.</ol>
-   <ol>5. Copy your logo file into the images folder and rename it as logo.jpg</ol>
+   <ol>5. Copy your logo file into the images folder and rename it as logo.png</ol>
    <ol>6. Modify the file "logon.jsp" to mention the login details of your BO server as below:</ol>
              <ol> a. //Enter your Admin equivalent User Id </ol>
                 <ol> String username = "administrator"; </ol>
